@@ -1,0 +1,8 @@
+{
+    "launch": {
+        
+    "editor.suggestionTriggerCharcters":false,
+    "editor.autoClosingBrackets":false,
+    },
+    "json.format.enable": false
+}
